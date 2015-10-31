@@ -3,6 +3,8 @@ This database is my first attempt at running calculations in R triggered from a 
 
 For this to work, you'll need a copy of the Filemaker app (http://filemaker.com). It was built in Filemaker Pro Advanced 13 and should run on any Filemaker version  13 or higher, perhaps 12 too although I've not tried that. You'll also need R (http://r-project.org), and inside R you'll need to install the package RJDBC. You'll need all this running on a Mac because it uses Applescript to glue Filemaker and R together.
 
+Filemaker and R will expect the files "R calc.fmp12" and "jdbc_connect.R" to be in the same folder.
+
 In short, here's how to use it and what it's doing:
 
 1) Open the database "R calc" in Filemaker. The user is "Admin" and the password is "test".
