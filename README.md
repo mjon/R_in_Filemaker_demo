@@ -1,6 +1,4 @@
 # R_in_Filemaker_demo
-This is a demo Filemaker database that connects to R via Applescript on a Mac. Filemaker database becomes the user interface for doing a particular task in R, using the data stored in Filemaker.
-
 This database is my first attempt at running calculations in R triggered from a Filemaker database and having the results return to Filemaker. In other words, the Filemaker database becomes the user interface for doing a particular task in R, using the data stored in Filemaker.
 
 For this to work, you'll need a copy of the Filemaker app (http://filemaker.com). It was built in Filemaker Pro Advanced 13 and should run on any Filemaker version  13 or higher, perhaps 12 too although I've not tried that. You'll also need R (http://r-project.org), and inside R you'll need to install the package RJDBC. You'll need all this running on a Mac because it uses Applescript to glue Filemaker and R together.
