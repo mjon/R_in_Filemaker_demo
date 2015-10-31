@@ -37,4 +37,5 @@ While everything works, an outcome of this error is that when the database is cl
 This is creative commons attribution 4.0. Do what you like with it.
 
 Jon.Sullivan@lincoln.ac.nz
-http://jonsullivan.canterburynature.org
+
+I've blogged about this at http://jonsullivan.canterburynature.org/?p=545
